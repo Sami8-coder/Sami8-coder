@@ -1,29 +1,49 @@
-## Hi there 👋
-# 👨‍💻 MD. SAMIUR RAHMAN
-
-🎓 **Student of Computer Science and Engineering at JUST**  
-🔍 Passionate about technology and eager to grow as a developer.  
-💡 Skilled in **problem solving**, and always curious to learn more.
-
----
-
-## 🚀 Skills
-- 💻 Problem Solving (C,C++,Python)
-- 🧠 Logical Thinking
-- 📚 CSE Fundamentals
-- 🌐 Web Development (HTML, CSS - learning phase)
-- ☁️ Firebase (working on real-time app projects)
+<h1 align="center">👋 Hi, I'm MD. SAMIUR RAHMAN</h1>
+<p align="center">
+🎓 Student of Computer Science and Engineering at JUST <br>
+💻 Aspiring Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
+</p>
 
 ---
 
-## 🔗 Connect with Me
+### 🧠 About Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/msr-sami-24855332a/)
+- 🎓 I'm currently studying **CSE at Jessore University of Science and Technology (JUST)**
+- 🔍 I love solving problems and exploring new technologies.
+- 🌱 Currently learning **Web Development** and **Firebase App Integration**
+- ✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/msr-sami-24855332a/)
 
 ---
 
-## 📈 GitHub Stats (Optional – Add later if you commit often)
+### 🚀 Skills & Tools
 
-```bash
-[![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami8-coder &show_icons=true&theme=radical)](https://github.com/sami8-coder)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFD43B?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiurmolla&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiurmolla&theme=tokyonight" width="45%">
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/msr-sami-24855332a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+_Thanks for visiting my profile! Feel free to connect and collaborate!_
